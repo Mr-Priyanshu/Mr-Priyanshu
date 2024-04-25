@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Mr-Priyanshu
 - 👀 I’m interested in Software Web Developement 
-- 🌱 I’m currently learning React JX 
+- * Skill
+  -  JS
+- 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : impriyanshu.garg@gmail.com
 
