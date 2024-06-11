@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @Mr-Priyanshu
 - 👀 I’m interested in Software Web Developement 
-- * Skill
-  -  JS
-- 🌱 I’m currently learning React Native 
-- 💞️ I’m looking to collaborate on ...
+- Skill
+  -  HTML, CSS
+  -  Bootstrap, Tailwind
+  -  React, React Native
+  -  JavaScript
+  -  Node.js
+  -  Express.js
+  -  MySql, PostgreSql
+  -  System Deployemnt.
+- 🌱 I’m currently learning Express.js and Node.js Backend Working CRUD operation and DataBase
+- 🏫 1 Year Experince.  
+- 💞️ I’m looking to collaborate on .../
 - 📫 How to reach me Email : impriyanshu.garg@gmail.com
 
 <!---
