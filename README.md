@@ -8,6 +8,8 @@
   -  Node.js
   -  Express.js
   -  MySql, PostgreSql
+  -  Git, GitHub
+  -  REST API, JSON API
   -  System Deployemnt.
 - 🌱 I’m currently learning Express.js and Node.js Backend Working CRUD operation and DataBase
 - 🏫 1 Year Experince.  
